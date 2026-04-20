@@ -1,0 +1,5 @@
+C:/Users/Acer Nitro/STL_AR_Viewer/.utmp/RelWithDebInfo/5uv5w486/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Acer Nitro/STL_AR_Viewer/.utmp/RelWithDebInfo/5uv5w486/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Acer Nitro/STL_AR_Viewer/.utmp/RelWithDebInfo/5uv5w486/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Acer Nitro/STL_AR_Viewer/.utmp/RelWithDebInfo/5uv5w486/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Acer Nitro/STL_AR_Viewer/.utmp/RelWithDebInfo/5uv5w486/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

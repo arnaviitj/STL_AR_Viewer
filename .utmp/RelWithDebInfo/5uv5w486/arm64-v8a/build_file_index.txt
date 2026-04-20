@@ -1,0 +1,2 @@
+C:\Users\Acer Nitro\STL_AR_Viewer\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Acer Nitro\STL_AR_Viewer\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
